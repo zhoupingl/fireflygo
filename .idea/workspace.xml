@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f64726bf-3125-4f08-b8d4-99d64665ab0d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fireflygo.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/version.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fireflygo/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fireflygo/README" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fireflygo/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fireflygo/cluster/asyncresult.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fireflygo/cluster/child.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fireflygo/cluster/clusterconf.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fireflygo/cluster/cmdinterpreter.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fireflygo/cluster/rpc.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fireflygo/cluster/rpchandle.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fireflygo/cluster/rpcpack.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fireflygo/cluster/rpcprotocol.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fireflygo/cluster/telnetprotocol.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fireflygo/clusterserver/clusterglobal.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fireflygo/clusterserver/clusterserver.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fireflygo/clusterserver/master.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fireflygo/db/mongo/dboperate.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fireflygo/db/mongo/dboperate_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fireflygo/fireflygo.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fireflygo/fnet/connection.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fireflygo/fnet/connectionmgr.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fireflygo/fnet/datapack.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fireflygo/fnet/msghandle.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fireflygo/fnet/protocol.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fireflygo/fnet/tcpclient.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fireflygo/fserver/server.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fireflygo/iface/iclient.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fireflygo/iface/icommand.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fireflygo/iface/icommandinterpreter.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fireflygo/iface/iconnection.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fireflygo/iface/iconnectionmgr.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fireflygo/iface/idatapack.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fireflygo/iface/imsghandle.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fireflygo/iface/iprotocol.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fireflygo/iface/iserver.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fireflygo/iface/iwriter.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fireflygo/logger/logger.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fireflygo/logger/logger_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fireflygo/sys_rpc/child_rpc.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fireflygo/sys_rpc/master_rpc.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fireflygo/sys_rpc/root_rpc.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fireflygo/telnetcmd/mastercommand.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fireflygo/telnetcmd/pprofcpucommand.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fireflygo/timer/hashwheel.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fireflygo/timer/safetimer.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fireflygo/timer/safetimer_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fireflygo/timer/timer.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fireflygo/utils/globalobj.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fireflygo/utils/tools.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fireflygo/utils/uuid_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fireflygo/utils/uuidfactory.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fireflygo/version.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="GOROOT" path="/usr/local/Cellar/go/1.14.3/libexec" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="4vblwe49" />
+  </component>
+  <component name="ProjectId" id="1hwL3IPu5EF46kw2FFs9kXmO0Bv" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="519" y="291" width="604" height="490" key="find.popup" timestamp="1600917056945">
+      <screen x="0" y="23" width="1643" height="1027" />
+    </state>
+    <state x="519" y="291" width="604" height="490" key="find.popup/0.23.1643.1027@0.23.1643.1027" timestamp="1600917056945" />
+  </component>
+</project>
